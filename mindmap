@@ -84,7 +84,7 @@
         <mxCell id="1763" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;PHP&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="840" y="900" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1765" value="?????" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#B09500;strokeWidth=3;fillColor=#e3c800;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+        <mxCell id="1765" value="Soft Skills" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#B09500;strokeWidth=3;fillColor=#e3c800;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="820" y="280" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1766" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1749" target="1765" edge="1">
@@ -92,7 +92,7 @@
             <mxPoint x="641.1111111111109" y="198.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1767" value="?????" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#B09500;strokeWidth=3;fillColor=#e3c800;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+        <mxCell id="1767" value="Code Quality" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#B09500;strokeWidth=3;fillColor=#e3c800;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="780" y="200" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1768" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1749" target="1767" edge="1">
